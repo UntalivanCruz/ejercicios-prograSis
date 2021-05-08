@@ -1,0 +1,4 @@
+/* El usuario debe indicar cuantas veces desea tirar la moneda al aire
+y se debe en cada tiro seleccionar que cara de la moneda quiere 
+Mostrar al final el numero de veces que gano y perdio
+*/
